@@ -1,0 +1,16 @@
+.homeCard {
+  height: 200px;
+  width: 30%;
+  margin: 1%;
+  background: rgba(255,255,255,0.5) !important;
+}
+.homeCard:hover{
+  background: rgba(255,255,255,.75) !important;
+}
+.topCard{
+  height: 100px !important;
+}
+img{
+  height: 64px;
+  width: 64px
+}
