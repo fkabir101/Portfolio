@@ -8,7 +8,7 @@ class RenderNavbar extends Component {
       <div>
         <ul className="nav justify-content-end">
           <li>
-            <a className="btn btn-secondary" href="/">About</a>
+            <a className="btn btn-secondary" href="/about">About</a>
           </li>
           <li className="nav-item">
             <a className="btn btn-secondary" href="/portfolio">Portfolio</a>

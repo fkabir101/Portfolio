@@ -1,22 +1,32 @@
 [
   {
-    "id": "1",
-    "imageRef": "/images/portfolio/20191109140518_IMG_2540.jpg"
+    "src": "/images/portfolio/20191109140518_IMG_2540.jpg",
+    "thumbnail": "/images/portfolio/20191109140518_IMG_2540.jpg",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   },
   {
-    "id": "2",
-    "imageRef": "/images/portfolio/DSCF0288.JPG"
+    "src": "/images/portfolio/DSCF0288.JPG",
+    "thumbnail": "/images/portfolio/DSCF0288.JPG",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   },
   {
-    "id": "3",
-    "imageRef": "/images/portfolio/DSCF0524.JPG"
+    "src": "/images/portfolio/DSCF0524.JPG",
+    "thumbnail": "/images/portfolio/DSCF0524.JPG",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   },
   {
-    "id": "4",
-    "imageRef": "/images/portfolio/DSCF0646.jpg"
+    "src": "/images/portfolio/DSCF0646.jpg",
+    "thumbnail": "/images/portfolio/DSCF0646.jpg",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   },
   {
-    "id": "5",
-    "imageRef": "/images/portfolio/IMG_2873.jpg"
+    "src": "/images/portfolio/IMG_2873.jpg",
+    "thumbnail": "/images/portfolio/IMG_2873.jpg",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   }
 ]
