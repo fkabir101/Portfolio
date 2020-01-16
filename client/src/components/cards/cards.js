@@ -20,11 +20,11 @@ class Card extends Component{
     }
     else if(this.props.title === 'Contact'){
       return(
-        <div className="card homeCard" onClick={this.redirect}>
+        // <div className="card homeCard" onClick={this.redirect}>
+        <div className="card homeCard">
           <div className="card-body">
             <h4 className="card-title">{this.props.title}</h4>
-            <h5>something@somthing.com</h5>
-            <h5>Contact Form</h5>
+            <h5>stevenkurt64@gmail.com</h5>
           </div>
         </div>
       )      
@@ -34,8 +34,8 @@ class Card extends Component{
         <div className="card homeCard">
           <div className="card-body">
             <h4 className="card-title">Links: </h4>
-            <img src='/images/icons/instagram.png' className = 'm-2' alt="Instagram Icon"/>
-            <img src='/images/icons/facebook.png' className = 'm-2' alt="Instagram Icon"/>
+            <a href="https://www.instagram.com/"><img src='/images/icons/instagram.png' className = 'm-2' alt="Instagram Icon"/></a>
+            <a href="https://www.facebook.com/"><img src='/images/icons/facebook.png' className = 'm-2' alt="Facebook Icon"/></a>
           </div>
         </div>
       )

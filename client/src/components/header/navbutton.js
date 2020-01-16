@@ -13,9 +13,9 @@ class RenderNavbar extends Component {
           <li className="nav-item">
             <a className="btn btn-secondary" href="/portfolio">Portfolio</a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="btn btn-secondary" href="/contact">Contact</a>
-          </li>
+          </li> */}
         </ul>
       </div>
     )  
