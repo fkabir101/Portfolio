@@ -9,12 +9,20 @@ class HomePage extends Component{
         <div className = 'homepage'>
           <div className = 'container'>
             <div className = 'row d-flex justify-content-center'>
+            <div className="col-md-5 col-sm-12 ">
               <Card title = 'About'></Card>
+            </div>
+            <div className="col-md-5 col-sm-12 ">
               <Card title = 'Portfolio'></Card>
             </div>
+            </div>
             <div className = 'row d-flex justify-content-center'>
-              <Card title = 'Contact'></Card>
-              <Card title = 'Links'></Card>
+              <div className="col-md-5 col-sm-12 ">
+                <Card title = 'Contact'></Card>
+              </div>
+              <div className="col-md-5 col-sm-12">
+                <Card title = 'Links'></Card>
+              </div> 
             </div>
           </div>
         </div>
