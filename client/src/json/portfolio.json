@@ -28,5 +28,11 @@
     "thumbnail": "/images/portfolio/IMG_2873.jpg",
     "thumbnailWidth": 320,
     "thumbnailHeight": 212
+  },
+  {
+    "src": "/images/portfolio/Crow eating berry.jpg",
+    "thumbnail": "/images/portfolio/Crow eating berry.jpg",
+    "thumbnailWidth": 320,
+    "thumbnailHeight": 212
   }
 ]
